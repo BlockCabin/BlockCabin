@@ -1,6 +1,6 @@
 - 👋 Hiya, I’m Madeline/Maddy!
 - 🏳️‍⚧️ I'm just a trans girl who loves to play and make indie games!
-- 💻 I primarily use Gamemaker 2
+- 💻 I primarily use Gamemaker 2 and Godot
 - 💞️ I love indie games, Community, and awesome people
 - 📫 You can message me on Discord: BlockCabin#9205
 
